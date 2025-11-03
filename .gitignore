@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Blazor / .NET
+wwwroot/
+node_modules/
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
